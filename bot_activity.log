@@ -1061,15 +1061,3 @@ NameError: name 'socket_client' is not defined
 2025-12-17 17:27:41,025 - INFO - 192.168.10.119 - - [17/Dec/2025 17:27:41] "[33mGET / HTTP/1.1[0m" 404 -
 2025-12-17 17:27:52,497 - INFO - Raw response length: 810, Content-Encoding: None
 2025-12-17 17:27:54,273 - INFO - 192.168.10.119 - - [17/Dec/2025 17:27:54] "GET /status?uid=2930294266 HTTP/1.1" 200 -
-2025-12-18 19:50:53,648 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
- * Running on all addresses (0.0.0.0)
- * Running on http://127.0.0.1:5000
- * Running on http://100.79.246.136:5000
-2025-12-18 19:50:53,649 - INFO - [33mPress CTRL+C to quit[0m
-2025-12-18 19:52:53,186 - INFO - Raw response length: 730, Content-Encoding: None
-2025-12-18 19:52:54,957 - INFO - 127.0.0.1 - - [18/Dec/2025 19:52:54] "GET /status?uid=12224442196 HTTP/1.1" 200 -
-2025-12-18 19:52:55,054 - INFO - 127.0.0.1 - - [18/Dec/2025 19:52:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
-2025-12-18 19:58:16,168 - INFO - Raw response length: 728, Content-Encoding: None
-2025-12-18 19:58:18,101 - INFO - 127.0.0.1 - - [18/Dec/2025 19:58:18] "GET /status?uid=12224442196 HTTP/1.1" 200 -
-2025-12-18 19:58:53,440 - INFO - Raw response length: 732, Content-Encoding: None
-2025-12-18 19:58:54,986 - INFO - 127.0.0.1 - - [18/Dec/2025 19:58:54] "GET /status?uid=1224442196 HTTP/1.1" 200 -
