@@ -7,7 +7,6 @@ import urllib3
 from flask import Flask,request,jsonify
 import logging
 from itertools import cycle
-from cfonts import render
 from datetime import datetime
 from protobuf_decoder.protobuf_decoder import Parser
 import base64,binascii,re,psutil
