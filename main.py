@@ -309,7 +309,7 @@ class FF_CLIENT(threading.Thread):
             return None, None
 
     def GET_LOGIN_DATA(self, JWT_TOKEN, PAYLOAD):
-        url = os.getenv("FF_LOGIN_DATA_URL", "https://clientbp.common.ggbluefox.com/GetLoginData")
+        url = os.getenv("FF_LOGIN_DATA_URL", "https://client.ind.freefiremobile.com/GetLoginData")
         host = os.getenv("FF_LOGIN_DATA_HOST", "clientbp.common.ggbluefox.com")
         headers = {
             'Expect': '100-continue',
