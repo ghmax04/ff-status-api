@@ -1,0 +1,15 @@
+protobuf
+protobuf-decoder
+requests
+httpx
+flask
+flask-socketio
+flask-login
+werkzeug
+pycryptodome
+PyJWT
+psutil
+urllib3
+python-dotenv
+watchdog
+cryptography
